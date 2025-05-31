@@ -7,4 +7,4 @@ services:
     plan: free
     envVars:
       - key: GOOGLE_API_KEY
-        value: AIzaSyC0_R1QW-Yr0fo5BIGnWEzAVePUQxcoWcg
+        value: enter your own key
