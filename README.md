@@ -55,3 +55,6 @@
   The ChromaDB database and source data are not included in this repository.
 
     To use this project locally without rebuilding the pipeline, pull and run the Docker container from Docker Hub.
+Screenshots 
+![image](https://github.com/user-attachments/assets/c9f095be-c485-4d1f-b833-efa41bac6281)
+
